@@ -1,4 +1,4 @@
-# DecidArch Replication Package (HICCS2018)
+# DecidArch Replication Package ([HICCS2019](http://hicss.hawaii.edu/))
 This repository is a companion page for the following publication:
 > Jia F. Cai, Patricia Lago, Remco C. De Boer, Philippe Kruchten, and Roberto Verdecchia. 2019. DecidArch: Playing Cards as Software Architects. In *Proceeding of HICCS-52: 52nd Hawaii International Conference on System Sciences, Hawaii, Maui, January 8-11, 2019 (HICSS-52)*, 10 pages.
 
