@@ -20,7 +20,7 @@ The game has been played by 22 groups with a total of 83 players, all of them st
 
 
 ## Replication material
-This repository contains the game, survey, results, and detailed documentation of the research, which are available here:
+This repository contains the game, survey, results, and detailed documentation of the research, available here:
 1. [DecidArch Game Material.zip](https://github.com/DecidArch/HICCS2018/blob/master/DecidArch%20Game%20Material.zip) - DecidArch game material and rules
 2. [DecidArch Student Survey.pdf](https://github.com/DecidArch/HICCS2018/blob/master/DecidArch%20Student%20Survey.pdf) - Survey adopted for the evaluation of the the learning objectives
 3. [Survey Results.csv](https://github.com/DecidArch/HICCS2018/blob/master/Survey%20Results.csv) - Raw data of the survey answers
